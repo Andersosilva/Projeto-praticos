@@ -36,7 +36,7 @@ body{
     font-size: 24px;
     font-family: 'Krona One',sans-Serif;
 }
-.conteudo__blog1{
+.conteudo__blog1_botoes{
     display: flex;
     justify-content: space-between;
 }
